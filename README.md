@@ -1,4 +1,4 @@
-<h1 align="center">WORKING IN PROGRESS :hammer_and_wrench:</h1>
+<h1 align="center">WORK IN PROGRESS :hammer_and_wrench:</h1>
 
 <h1 align="center">My projects</h1>
 <h2>Algorithms</h2>
